@@ -16,3 +16,11 @@
 body{
   font-family: sans-serif;
 }
+
+::-webkit-scrollbar{
+    width: 4px;
+    background-color: #2f3a5c;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #536aae;
+}
